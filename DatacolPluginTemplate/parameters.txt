@@ -1,0 +1,7 @@
+﻿<dc5par type="string" name="string-parameter">str_param</dc5par>
+<dc5par type="int" name="int-parameter">789</dc5par>
+<dc5par type="int" name="bool-parameter">1</dc5par>
+<dc5par type="list-string" name="list-parameter">
+val1
+val2
+</dc5par>
